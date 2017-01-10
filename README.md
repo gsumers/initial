@@ -1,2 +1,2 @@
 # initial
-Just a test
+Just a test - only a test
